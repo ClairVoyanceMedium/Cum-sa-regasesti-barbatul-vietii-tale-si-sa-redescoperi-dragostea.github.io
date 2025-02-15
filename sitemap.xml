@@ -2,91 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <!-- Page d'accueil -->
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- Pages principales -->
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/ritualuri-sentimentale/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/magie-rosie/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/magie-alba/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/voyance-email/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/compatibilitate-amorosa/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/contact/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/termeni-si-conditii/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2023-07-15</lastmod> <!-- Exemple de date antérieure -->
+    <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/politica-de-confidentialitate/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2023-06-01</lastmod> <!-- Exemple de date antérieure -->
+    <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Pages de contenu dynamique (exemples) -->
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/blog/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/blog/ritualuri-puternice/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/blog/magie-alba-vs-magie-rosie/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -94,29 +97,35 @@
   <!-- Pages de produits ou services -->
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/produse/ritual-magie-rosie/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://clairvoyancemedium.github.io/images/ritual-magie-rosie.jpg</image:loc>
+    </image:image>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/produse/ritual-magie-alba/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://clairvoyancemedium.github.io/images/ritual-magie-alba.jpg</image:loc>
+    </image:image>
   </url>
 
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/produse/voyance-email/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>quarterly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <!-- Pages de témoignages ou avis -->
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/temoignages/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -124,9 +133,23 @@
   <!-- Pages de FAQ -->
   <url>
     <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/faq/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2023-08-01</lastmod> <!-- Exemple de date antérieure -->
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- Sitemaps supplémentaires -->
+  <sitemap>
+    <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/sitemap-images.xml</loc>
+    <lastmod>2025-02-15</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/sitemap-videos.xml</loc>
+    <lastmod>2025-02-15</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://clairvoyancemedium.github.io/Cum-sa-regasesti-barbatul-vietii-tale-si-sa-redescoperi-dragostea.github.io/sitemap-news.xml</loc>
+    <lastmod>2025-02-15</lastmod>
+  </sitemap>
 
 </urlset>
